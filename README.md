@@ -8,7 +8,7 @@
 
 <!-- Title -->
 <h1 align="center" style="border: none">
-Digital System Design using (VHDL, FPGA)
+Digital System Design (VHDL, FPGA)
 </h1>
 
 
